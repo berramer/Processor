@@ -1,4 +1,7 @@
 # Processor
-#contributors
+Please read 
+
+
+# Contributors
 Şükriye Soyer
 Rümeysa Öztürk
